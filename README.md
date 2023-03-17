@@ -11,6 +11,9 @@ To support underprivileged individuals, an NGO finances cataract surgeries at ey
 
 The NGO requires a reliable system for comparing pre and post-operative photographs (as shown in the figure below) and accurately identifying the same patient. However, the post-operative images contain a patch covering a portion of the patient's face, which poses a challenge for existing facial recognition algorithms that require a full view of the face. Therefore, a solution must be found to detect and match patients from pre and post-operative images, even when a section of the face is obscured by a patch.
 
+Sample Image:
+<img width="600" alt="Capture" src="https://user-images.githubusercontent.com/81372735/225899617-c5dcbccf-d8b3-4e48-a8ba-a08e869980df.PNG">
+
 
 # Brief Approach
 - Created two classes {1: True pair , 0: Fake Pair}
